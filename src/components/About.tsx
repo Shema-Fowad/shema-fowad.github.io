@@ -21,10 +21,6 @@ const About = () => {
               tools my new favorite experiments.
             </p>
             <p>
-              People say I bring clarity (and occasionally loud laughter) to the room both of which 
-              I wear proudly.
-            </p>
-            <p>
               Currently building projects that mix analytics with storytelling, and always on the 
               lookout for the next challenge that makes me say: "Oh, this is interesting."
             </p>
