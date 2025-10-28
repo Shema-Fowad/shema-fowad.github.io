@@ -63,7 +63,7 @@ const About = () => {
               DR BR AMBEDKAR NATIONAL INSTITUTE OF TECHNOLOGY (NIT), JALANDHAR
             </h4>
             <p className="text-primary font-medium mt-2">2018 - 2022</p>
-            <p className="text-muted-foreground mt-2">Major in Textile Technology</p>
+            <p className="text-muted-foreground mt-2">Bachelor of Technology</p>
           </Card>
         </div>
       </div>
